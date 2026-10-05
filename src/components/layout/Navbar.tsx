@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { Magnetic } from '@/components/motion/Magnetic'
 import { ServicesMegaMenu } from '@/components/layout/ServicesMegaMenu'
-import logoImg from '@/assets/web-images/logo.png'
+import logoImg from '@/assets/web-images/homelogo.png'
 
 const phone = '055 751 6254'
 

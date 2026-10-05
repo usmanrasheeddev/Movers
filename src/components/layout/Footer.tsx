@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { Phone, MessageCircle } from 'lucide-react'
-import logoImg from '@/assets/web-images/logo.png'
+import logoImg from '@/assets/web-images/homelogo.png'
 
 const phone = '055 751 6254'
 
